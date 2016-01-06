@@ -1,0 +1,13 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+
+body{
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid red;
+}

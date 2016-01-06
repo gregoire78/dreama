@@ -1,0 +1,58 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+
+body{
+}
+
+#logo{
+	position: absolute;
+	width: 57%;
+	height: 30%;
+	left: 20%;
+	top: 15%;
+	background-color: #C5C6C5;
+}
+
+p{
+	position: absolute;
+	top: 50%;
+	left: 20%
+}
+
+#inscription{
+	position: absolute;
+	left: 20%;
+	top: 50%;
+}
+
+.inputs{	
+	width: 70%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	outline-width: 0;
+}
+
+#submitButton{
+	position: relative;
+	left: 10%;
+	margin-top: 20px;
+	background-color: #C5C6C5;
+	border: none;
+	width: 50%;
+	height: 40px;
+	padding: 5px;
+	outline-width: 0;
+}
+
+/* Google icons customization */
+
+.GGicons{
+	position: relative;
+	left: -10%;
+	color: #C5C6C5;
+}
